@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP projects as a fresh graduate data scientist in Malaysia<br>🌱 I’m currently learning Kubeflow and MLOps to improve the scalability and reliability of my NLP projects<br>⚡
+🔭 I’m currently working on NLP projects as a fresh graduate data scientist in Malaysia<br>🌱 I’m currently learning Kubeflow and MLOps to improve the scalability and reliability of my NLP projects<br>
 
 
 ## 🌐 Socials:
