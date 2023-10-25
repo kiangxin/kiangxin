@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP projects as a fresh graduate data scientist in Malaysia<br>🌱 I’m currently learning Kubeflow and MLOps to improve the scalability and reliability of my NLP projects<br>⚡ Fun fact Malaysia is known for its diverse culture and cuisine, with influences from Malay, Chinese, Indian, and indigenous traditions. Exploring local dishes can be a delightful adventure! 🍜🍛🍲
+🔭 I’m currently working on NLP projects as a fresh graduate data scientist in Malaysia<br>🌱 I’m currently learning Kubeflow and MLOps to improve the scalability and reliability of my NLP projects<br>⚡
 
 
 ## 🌐 Socials:
