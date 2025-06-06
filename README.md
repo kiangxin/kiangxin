@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP projects as a fresh graduate data scientist in Malaysia<br>🌱 I’m currently learning Kubeflow and MLOps to improve the scalability and reliability of my NLP projects<br>
-
+🔭 I’m currently working as an AI/ML Engineer in Malaysia
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chenkiangxin) 
